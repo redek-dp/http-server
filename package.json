@@ -1,11 +1,11 @@
 {
   "name": "http-server",
   "version": "0.12.3",
-  "description": "A simple zero-configuration command-line http server",
+  "description": "http server",
   "main": "./lib/http-server",
   "repository": {
     "type": "git",
-    "url": "git://github.com/http-party/http-server.git"
+    "url": "git://github.com/redek-dp/http-server.git"
   },
   "keywords": [
     "cli",
@@ -29,55 +29,8 @@
   },
   "contributors": [
     {
-      "name": "Charlie Robbins",
-      "email": "charlie.robbins@gmail.com"
-    },
-    {
-      "name": "Marak Squires",
-      "email": "marak.squires@gmail.com"
-    },
-    {
-      "name": "Charlie McConnell",
-      "email": "charlie@charlieistheman.com"
-    },
-    {
-      "name": "Joshua Holbrook",
-      "email": "josh.holbrook@gmail.com"
-    },
-    {
-      "name": "Maciej Małecki",
-      "email": "maciej.malecki@notimplemented.org"
-    },
-    {
-      "name": "Matthew Bergman",
-      "email": "mzbphoto@gmail.com"
-    },
-    {
-      "name": "brad dunbar",
-      "email": "dunbarb2@gmail.com"
-    },
-    {
-      "name": "Dominic Tarr"
-    },
-    {
-      "name": "Travis Person",
-      "email": "travis.person@gmail.com"
-    },
-    {
-      "name": "Jinkwon Lee",
-      "email": "master@bdyne.net"
-    },
-    {
-      "name": "BigBlueHat",
-      "email": "byoung@bigbluehat.com"
-    },
-    {
-      "name": "Daniel Dalton",
-      "email": "daltond2@hawkmail.newpaltz.edu"
-    },
-    {
-      "name": "Jade Michael Thornton",
-      "email": "jade@jmthornton.net"
+      "name": "0",
+      "email": "0"
     }
   ],
   "dependencies": {
@@ -98,7 +51,7 @@
     "vows": "~0.8.3"
   },
   "bugs": {
-    "url": "https://github.com/http-party/http-server/issues"
+    "url": "https://github.com/redek-dp/http-server/issues"
   },
   "license": "MIT",
   "preferGlobal": true,
